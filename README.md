@@ -9,3 +9,9 @@ This project explores financial data from the US market using data fetched from 
 ## 📄 Dataset Description
 - **📂 Data Source**: Yahoo Finance API.
 - **🔢 Contains historical financial data**
+
+  ## 🛠️ Technologies Used
+- **🐍 Python**: For scripting and analysis.
+- **📊 pandas**: For data manipulation and processing.
+- **📉 statsmodels**: For time series analysis (e.g., autocorrelation and stationarity testing).
+- **🎨 Matplotlib/Seaborn**: For visualizing trends, correlations, and patterns.
